@@ -69,9 +69,11 @@ AI × Automation × Self-Hosted
 </p>
 
 ## 🐍 贪吃蛇贡献图 / Snake
-<p>
-  <img src="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
