@@ -65,9 +65,13 @@ AI × Automation × Self-Hosted
 
 ## ⏱️ WakaTime / Coding Time
 <!--START_SECTION:waka-->
-```text
-Waiting for first WakaTime update...
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ## 🐍 贪吃蛇贡献图 / Snake
