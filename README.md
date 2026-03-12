@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <p align="center">
-  <b>Building useful things with code.</b><br/>
-  AI • Automation • Product-minded Engineering
+  <b>I build practical AI products & automation tools.</b><br/>
+  Ship fast · Keep it clean · Make it useful
 </p>
 
 <p align="center">
@@ -14,22 +14,30 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently focused on **AI workflows** and **automation systems**
-- ⚙️ I like turning messy processes into **clean tools**
-- 🌱 Learning deeper about **LLM agents** and **production-ready infra**
-- 💬 Ask me about: product engineering, automation, and practical AI
+- 🔭 Focusing on **AI tooling**, **automation**, and **self-hosted products**
+- 🛠 I enjoy turning messy workflows into reusable systems
+- 🌱 Currently exploring more about **LLM agents** and **production infra**
+- 💬 Ask me about: AI product engineering, TypeScript stack, deployment workflows
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,docker,postgres,redis,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,docker,postgres,redis,linux,git&theme=dark" />
 </p>
 
 ### 🚀 Featured Projects
-- 🤖 **Project One** — High-impact automation for daily workflows  
-- 🧩 **Project Two** — AI-assisted tooling with real-world usability  
-- ⚡ **Project Three** — End-to-end product from idea to deployment  
+- 🤖 **[Echarts-AI-Skill](https://github.com/davaded/Echarts-AI-Skill)**  
+  Skill-first ECharts toolkit for Codex with chart recommendation + HTML/SVG export.
 
-> (If you're reading this, yes — these will be replaced by real links soon 😄)
+- 💸 **[SubTrack](https://github.com/davaded/SubTrack)**  
+  Subscription management system with cost tracking, analytics, and multi-channel renewal reminders.
+
+- 🧭 **[SnapDeploy](https://github.com/davaded/SnapDeploy)**  
+  Self-hosted static site deployment platform with a Vercel-like dashboard experience.
+
+### 🧪 More Cool Stuff
+- **[x-libris](https://github.com/davaded/x-libris)** — Self-hosted X(Twitter) content manager (bookmarks/likes/tweets)
+- **[prompt-manager](https://github.com/davaded/prompt-manager)** — Tauri-based desktop prompt manager with variables/history/tags
+- **[ChatMate](https://github.com/davaded/ChatMate)** — Team-oriented LLM client platform with usage and user management
 
 ### 📊 GitHub Stats
 <p>
@@ -42,11 +50,6 @@
   <img src="https://streak-stats.demolab.com?user=davaded&theme=tokyonight" />
 </p>
 
-### 🌐 Connect
-- X / Twitter: <!-- add your link -->
-- Blog / Website: <!-- add your link -->
-- Email: <!-- add your email -->
-
 ---
 
-<p align="center"><i>"Ship small, learn fast, iterate forever."</i></p>
+<p align="center"><i>"Build things people actually use."</i></p>
