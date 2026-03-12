@@ -2,6 +2,8 @@
 
 # ✨ やっほー! I'm David (davaded)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20GitHub%20Realm&fontAlign=50&fontAlignY=38&color=0:8A2BE2,40:FF69B4,100:00C2FF&fontColor=ffffff&desc=Anime%20Soul%20%7C%20Engineer%20Mind&descAlign=50&descAlignY=58" />
+
 **コードで世界観を具现化する开发者**  
 AI × Automation × Self-Hosted
 
@@ -59,6 +61,16 @@ AI × Automation × Self-Hosted
 ## 🔥 连击记录 / Streak
 <p>
   <img src="https://streak-stats.demolab.com?user=davaded&theme=tokyonight" />
+</p>
+
+## ⏱️ WakaTime / Coding Time
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=davaded&theme=tokyonight&layout=compact" />
+</p>
+
+## 🐍 贪吃蛇贡献图 / Snake
+<p>
+  <img src="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
