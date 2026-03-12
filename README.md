@@ -63,12 +63,12 @@ AI × Automation × Self-Hosted
   <img src="https://streak-stats.demolab.com?user=davaded&theme=merko" />
 </p>
 
-## ⏱️ Coding Activity
-<p>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=davaded&theme=react-dark&bg_color=0f172a&color=34d399&line=10b981&point=f9a8d4&area=true&hide_border=true" />
-</p>
-
-> WakaTime 卡片已移除（你当前账号未公开可读统计，容易报错影响观感）。后续你开启 WakaTime public profile 我再无缝加回。
+## ⏱️ WakaTime / Coding Time
+<!--START_SECTION:waka-->
+```text
+Waiting for first WakaTime update...
+```
+<!--END_SECTION:waka-->
 
 ## 🐍 贪吃蛇贡献图 / Snake
 <picture>
