@@ -2,18 +2,18 @@
 
 # ✨ やっほー! I'm David (davaded)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20GitHub%20Realm&fontAlign=50&fontAlignY=38&color=0:8A2BE2,40:FF69B4,100:00C2FF&fontColor=ffffff&desc=Anime%20Soul%20%7C%20Engineer%20Mind&descAlign=50&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=David%20%7C%20AI%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Automation%20%C2%B7%20Self-Hosted%20%C2%B7%20Product%20Engineering&descAlignY=58&color=0:34d399,50:10b981,100:f9a8d4" />
 
 **コードで世界観を具现化する开发者**  
 AI × Automation × Self-Hosted
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=9D7CFF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Ship+fast%2C+stay+curious.;%F0%9F%A4%96+Build+useful+AI+tools.;%F0%9F%8E%AE+Life+is+better+with+anime+and+clean+code." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=34D399&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Ship+fast%2C+stay+curious.;%F0%9F%A4%96+Build+useful+AI+tools.;%F0%9F%8E%AE+Anime+energy%2C+engineer+mind." />
 
 <p>
   <a href="https://github.com/davaded?tab=followers">
     <img src="https://img.shields.io/github/followers/davaded?label=Followers&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=davaded&label=Profile%20views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=davaded&label=Profile%20views&color=10b981&style=flat" />
 </p>
 
 </div>
@@ -54,19 +54,21 @@ AI × Automation × Self-Hosted
 
 ## 📊 战斗数据 / Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davaded&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davaded&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davaded&show_icons=true&theme=merko&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davaded&layout=compact&theme=merko" />
 </p>
 
 ## 🔥 连击记录 / Streak
 <p>
-  <img src="https://streak-stats.demolab.com?user=davaded&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=davaded&theme=merko" />
 </p>
 
-## ⏱️ WakaTime / Coding Time
+## ⏱️ Coding Activity
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=davaded&theme=tokyonight&layout=compact" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=davaded&theme=react-dark&bg_color=0f172a&color=34d399&line=10b981&point=f9a8d4&area=true&hide_border=true" />
 </p>
+
+> WakaTime 卡片已移除（你当前账号未公开可读统计，容易报错影响观感）。后续你开启 WakaTime public profile 我再无缝加回。
 
 ## 🐍 贪吃蛇贡献图 / Snake
 <picture>
