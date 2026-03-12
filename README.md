@@ -1,55 +1,71 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<p align="center">
-  <b>I build practical AI products & automation tools.</b><br/>
-  Ship fast · Keep it clean · Make it useful
+<div align="center">
+
+# ✨ やっほー! I'm David (davaded)
+
+**コードで世界観を具现化する开发者**  
+AI × Automation × Self-Hosted
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=9D7CFF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Ship+fast%2C+stay+curious.;%F0%9F%A4%96+Build+useful+AI+tools.;%F0%9F%8E%AE+Life+is+better+with+anime+and+clean+code." />
+
+<p>
+  <a href="https://github.com/davaded?tab=followers">
+    <img src="https://img.shields.io/github/followers/davaded?label=Followers&style=social" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=davaded&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/davaded?tab=followers">
-    <img src="https://img.shields.io/github/followers/davaded?label=Followers&style=social" alt="followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=davaded&label=Profile%20views&color=7C3AED&style=flat" alt="views" />
-</p>
+</div>
 
 ---
 
-### 🧠 About Me
-- 🔭 Focusing on **AI tooling**, **automation**, and **self-hosted products**
-- 🛠 I enjoy turning messy workflows into reusable systems
-- 🌱 Currently exploring more about **LLM agents** and **production infra**
-- 💬 Ask me about: AI product engineering, TypeScript stack, deployment workflows
+## 🌸 角色设定 / Character Sheet
+- 🧠 职业：把复杂流程驯化成可复用系统的工程师
+- 🔭 主线任务：**AI 工具化**、**自动化工作流**、**自托管产品**
+- ⚙️ 技能树：TypeScript / Next.js / Node.js / Docker / Product Engineering
+- 🎧 Buff：Anime OST + 深夜 coding + 一次成稿的 PR
 
-### 🛠 Tech Stack
+## 🛠️ 装备栏 / Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,docker,postgres,redis,linux,git&theme=dark" />
 </p>
 
-### 🚀 Featured Projects
-- 🤖 **[Echarts-AI-Skill](https://github.com/davaded/Echarts-AI-Skill)**  
-  Skill-first ECharts toolkit for Codex with chart recommendation + HTML/SVG export.
+## 🚀 主力作品 / Featured Quests
 
-- 💸 **[SubTrack](https://github.com/davaded/SubTrack)**  
-  Subscription management system with cost tracking, analytics, and multi-channel renewal reminders.
+### 🤖 [Echarts-AI-Skill](https://github.com/davaded/Echarts-AI-Skill)
+> Skill-first ECharts toolkit for Codex，支持图表推荐与 HTML/SVG 导出。  
+`#AI-tooling` `#visualization` `#TypeScript`
 
-- 🧭 **[SnapDeploy](https://github.com/davaded/SnapDeploy)**  
-  Self-hosted static site deployment platform with a Vercel-like dashboard experience.
+### 💸 [SubTrack](https://github.com/davaded/SubTrack)
+> 订阅管理系统：成本追踪、统计分析、多渠道续费提醒。  
+`#SaaS` `#self-hosted` `#product`
 
-### 🧪 More Cool Stuff
-- **[x-libris](https://github.com/davaded/x-libris)** — Self-hosted X(Twitter) content manager (bookmarks/likes/tweets)
-- **[prompt-manager](https://github.com/davaded/prompt-manager)** — Tauri-based desktop prompt manager with variables/history/tags
-- **[ChatMate](https://github.com/davaded/ChatMate)** — Team-oriented LLM client platform with usage and user management
+### 🧭 [SnapDeploy](https://github.com/davaded/SnapDeploy)
+> 类 Vercel 体验的自托管静态站点部署平台。  
+`#deployment` `#dashboard` `#DevOps`
 
-### 📊 GitHub Stats
+## 🎮 支线任务 / Side Projects
+- [x-libris](https://github.com/davaded/x-libris) — Self-hosted X(Twitter) 内容管理
+- [prompt-manager](https://github.com/davaded/prompt-manager) — 桌面 Prompt 管理（Tauri）
+- [ChatMate](https://github.com/davaded/ChatMate) — 团队协作型 LLM 客户端
+
+---
+
+## 📊 战斗数据 / Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=davaded&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davaded&layout=compact&theme=tokyonight" />
 </p>
 
-### 🔥 Contribution Streak
+## 🔥 连击记录 / Streak
 <p>
   <img src="https://streak-stats.demolab.com?user=davaded&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center"><i>"Build things people actually use."</i></p>
+<div align="center">
+
+### 💫 Motto
+**「コードは魔法、プロダクト是咒文落地的痕迹。」**
+
+</div>
