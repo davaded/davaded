@@ -2,11 +2,11 @@
 
 # ✨ やっほー! I'm David (davaded)
 
-简体中文 | [English](./README.en.md)
+[简体中文](./README.md) | English
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=David%20%7C%20AI%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Automation%20%C2%B7%20Self-Hosted%20%C2%B7%20Product%20Engineering&descAlignY=58&color=0:34d399,50:10b981,100:f9a8d4" />
 
-**コードで世界観を具现化する开发者**  
+**A developer who turns ideas into shippable products.**  
 AI × Automation × Self-Hosted
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=34D399&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Ship+fast%2C+stay+curious.;%F0%9F%A4%96+Build+useful+AI+tools.;%F0%9F%8E%AE+Anime+energy%2C+engineer+mind." />
@@ -22,55 +22,55 @@ AI × Automation × Self-Hosted
 
 ---
 
-## 🌸 角色设定 / Character Sheet
-- 🧠 职业：把复杂流程驯化成可复用系统的工程师
-- 🔭 主线任务：**AI 工具化**、**Agent Runtime**、**桌面效率工具**
-- ⚙️ 技能树：TypeScript / Tauri / Rust / Node.js / Docker / Product Engineering
-- 🎧 Buff：Anime OST + 深夜 coding + 一次成稿的 PR
+## 🌸 Character Sheet
+- 🧠 Role: an engineer who turns complex flows into reusable systems
+- 🔭 Main quests: **AI tooling**, **agent runtime**, **desktop productivity tools**
+- ⚙️ Skill tree: TypeScript / Tauri / Rust / Node.js / Docker / Product Engineering
+- 🎧 Buffs: anime OSTs, late-night coding, and one-pass PRs
 
-## 🛠️ 装备栏 / Tech Stack
+## 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tauri,rust,docker,postgres,redis,linux,git&theme=dark" />
 </p>
 
-## 🚀 主力作品 / Featured Quests
+## 🚀 Featured Quests
 
 ### 🤖 [Anchor](https://github.com/davaded/Anchor)
-> Coding agent 控制层：确定性执行、可回放状态、SQLite 事件记录与本地工件留存。  
+> A control layer for coding agents with deterministic execution, replayable state, SQLite event logs, and local artifacts.  
 `#agent-runtime` `#automation` `#Codex` `#Claude`
 
 ### 🪟 [codex-manager](https://github.com/davaded/codex-manager)
-> 多 OpenAI/Codex 账号桌面管理器，支持配额查看、智能切换和托盘快速操作。  
+> A desktop manager for multiple OpenAI/Codex accounts with quota tracking, smart switching, and tray-based quick actions.  
 `#desktop-app` `#Tauri` `#OpenAI` `#product-tool`
 
 ### 📈 [Echarts-AI-Skill](https://github.com/davaded/Echarts-AI-Skill)
-> Skill-first ECharts toolkit for Codex，支持图表推荐与 HTML/SVG 导出。  
+> A skill-first ECharts toolkit for Codex with chart recommendation and HTML/SVG export support.  
 `#AI-tooling` `#visualization` `#TypeScript`
 
-## 🎮 支线任务 / Side Projects
-- [api-enhanced](https://github.com/davaded/api-enhanced) — 网易云音乐 API 维护分支与增强实验
-- [prompt-manager](https://github.com/davaded/prompt-manager) — 桌面 Prompt 管理（Tauri）
-- [YesPlayMusic](https://github.com/davaded/YesPlayMusic) — 音乐播放器相关实验与桌面体验探索
+## 🎮 Side Projects
+- [api-enhanced](https://github.com/davaded/api-enhanced) - maintained and extended fork of the Netease Cloud Music API
+- [prompt-manager](https://github.com/davaded/prompt-manager) - desktop prompt management tool built with Tauri
+- [YesPlayMusic](https://github.com/davaded/YesPlayMusic) - music-player-related experiments and desktop UX exploration
 
 ---
 
-## 📊 战斗数据 / Stats
+## 📊 Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=davaded&show_icons=true&theme=merko&rank_icon=github" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davaded&layout=compact&theme=merko" />
 </p>
 
-## 🔥 连击记录 / Streak
+## 🔥 Streak
 <p>
   <img src="https://streak-stats.demolab.com?user=davaded&theme=merko" />
 </p>
 
-## 🎯 当前关注 / Current Focus
-- 让 Agent 不只是“会回答”，而是**会执行、会留痕、会复盘**
-- 做真正能嵌入日常工作流的桌面工具，而不是一次性 demo
-- 把能力封装成 skill / runtime / utility，而不是只停留在 prompt
+## 🎯 Current Focus
+- Making agents do more than answer: execute, leave traces, and support replay
+- Building desktop tools that fit into real daily workflows instead of one-off demos
+- Packaging capabilities as skills, runtimes, and utilities instead of stopping at prompts
 
-## 🐍 贪吃蛇贡献图 / Snake
+## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake.svg">
@@ -82,6 +82,6 @@ AI × Automation × Self-Hosted
 <div align="center">
 
 ### 💫 Motto
-**「代码是魔法，产品是咒文落地的痕迹。」**
+**"Code is magic, and products are the traces left when the spell lands."**
 
 </div>
