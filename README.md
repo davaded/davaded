@@ -63,16 +63,10 @@ AI × Automation × Self-Hosted
   <img src="https://streak-stats.demolab.com?user=davaded&theme=merko" />
 </p>
 
-## ⏱️ WakaTime / Coding Time
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+## 🎯 当前关注 / Current Focus
+- 让 Agent 不只是“会回答”，而是**会执行、会留痕、会复盘**
+- 做真正能嵌入日常工作流的桌面工具，而不是一次性 demo
+- 把能力封装成 skill / runtime / utility，而不是只停留在 prompt
 
 ## 🐍 贪吃蛇贡献图 / Snake
 <picture>
