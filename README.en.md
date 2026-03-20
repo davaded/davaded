@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=David%20%7C%20AI%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Automation%20%C2%B7%20Self-Hosted%20%C2%B7%20Product%20Engineering&descAlignY=58&color=0:34d399,50:10b981,100:f9a8d4" />
 
-**A developer who turns ideas into shippable products.**  
+**A builder who turns ideas into tools people can actually use.**  
 AI × Automation × Self-Hosted
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=34D399&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Ship+fast%2C+stay+curious.;%F0%9F%A4%96+Build+useful+AI+tools.;%F0%9F%8E%AE+Anime+energy%2C+engineer+mind." />
@@ -23,8 +23,8 @@ AI × Automation × Self-Hosted
 ---
 
 ## 🌸 Character Sheet
-- 🧠 Role: an engineer who turns complex flows into reusable systems
-- 🔭 Main quests: **AI tooling**, **agent runtime**, **desktop productivity tools**
+- 🧠 Role: an engineer who turns messy workflows into reusable systems
+- 🔭 Main quests: **AI tooling**, **agent runtimes**, **desktop productivity tools**
 - ⚙️ Skill tree: TypeScript / Tauri / Rust / Node.js / Docker / Product Engineering
 - 🎧 Buffs: anime OSTs, late-night coding, and one-pass PRs
 
@@ -36,7 +36,7 @@ AI × Automation × Self-Hosted
 ## 🚀 Featured Quests
 
 ### 🤖 [Anchor](https://github.com/davaded/Anchor)
-> A control layer for coding agents with deterministic execution, replayable state, SQLite event logs, and local artifacts.  
+> A control layer for coding agents with deterministic execution, replayable state, SQLite event logs, and inspectable local artifacts.  
 `#agent-runtime` `#automation` `#Codex` `#Claude`
 
 ### 🪟 [codex-manager](https://github.com/davaded/codex-manager)
@@ -44,13 +44,13 @@ AI × Automation × Self-Hosted
 `#desktop-app` `#Tauri` `#OpenAI` `#product-tool`
 
 ### 📈 [Echarts-AI-Skill](https://github.com/davaded/Echarts-AI-Skill)
-> A skill-first ECharts toolkit for Codex with chart recommendation and HTML/SVG export support.  
+> A skill-first ECharts toolkit for Codex with chart recommendation plus HTML and SVG export.  
 `#AI-tooling` `#visualization` `#TypeScript`
 
 ## 🎮 Side Projects
-- [api-enhanced](https://github.com/davaded/api-enhanced) - maintained and extended fork of the Netease Cloud Music API
-- [prompt-manager](https://github.com/davaded/prompt-manager) - desktop prompt management tool built with Tauri
-- [YesPlayMusic](https://github.com/davaded/YesPlayMusic) - music-player-related experiments and desktop UX exploration
+- [api-enhanced](https://github.com/davaded/api-enhanced) - a maintained and extended fork of the Netease Cloud Music API
+- [prompt-manager](https://github.com/davaded/prompt-manager) - a desktop prompt management tool built with Tauri
+- [YesPlayMusic](https://github.com/davaded/YesPlayMusic) - music player experiments and desktop UX exploration
 
 ---
 
@@ -66,8 +66,8 @@ AI × Automation × Self-Hosted
 </p>
 
 ## 🎯 Current Focus
-- Making agents do more than answer: execute, leave traces, and support replay
-- Building desktop tools that fit into real daily workflows instead of one-off demos
+- Making agents do more than answer: they should execute, leave traces, and support replay
+- Building desktop tools that fit real daily workflows instead of ending up as one-off demos
 - Packaging capabilities as skills, runtimes, and utilities instead of stopping at prompts
 
 ## 🐍 Contribution Snake
@@ -82,6 +82,6 @@ AI × Automation × Self-Hosted
 <div align="center">
 
 ### 💫 Motto
-**"Code is magic, and products are the traces left when the spell lands."**
+**"Code is magic, and products are the traces a spell leaves behind."**
 
 </div>
