@@ -1,80 +1,86 @@
 <div align="center">
 
-# ✨ やっほー! I'm David (davaded)
+# David (davaded)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=David%20%7C%20AI%20Builder&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Automation%20%C2%B7%20Self-Hosted%20%C2%B7%20Product%20Engineering&descAlignY=58&color=0:34d399,50:10b981,100:f9a8d4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=David%20%7C%20Agent%20Tooling%20Builder&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Tooling%20%C2%B7%20Desktop%20Utilities%20%C2%B7%20Self-Hosted%20Experiments&descAlignY=58&color=0:0f766e,50:14b8a6,100:0ea5e9" />
 
-**コードで世界観を具现化する开发者**  
-AI × Automation × Self-Hosted
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=34D399&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Ship+fast%2C+stay+curious.;%F0%9F%A4%96+Build+useful+AI+tools.;%F0%9F%8E%AE+Anime+energy%2C+engineer+mind." />
+**把 AI 工作流做成真正可执行、可复盘、可交付的工具。**  
+Agent Runtime / Desktop Utility / Self-Hosted Builder
 
 <p>
   <a href="https://github.com/davaded?tab=followers">
     <img src="https://img.shields.io/github/followers/davaded?label=Followers&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=davaded&label=Profile%20views&color=10b981&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=davaded&label=Profile%20views&color=14b8a6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Tooling%20%26%20Automation-0f766e" />
 </p>
 
 </div>
 
 ---
 
-## 🌸 角色设定 / Character Sheet
-- 🧠 职业：把复杂流程驯化成可复用系统的工程师
-- 🔭 主线任务：**AI 工具化**、**自动化工作流**、**自托管产品**
-- ⚙️ 技能树：TypeScript / Next.js / Node.js / Docker / Product Engineering
-- 🎧 Buff：Anime OST + 深夜 coding + 一次成稿的 PR
+## About Me
+- 现在主要在做 AI tooling、agent runtime、桌面效率工具和一些自托管实验。
+- 偏好把模糊需求压成明确流程，把一次性操作变成可重复系统。
+- 常用栈：TypeScript / Node.js / React / Tauri / Rust / Docker / SQLite
 
-## 🛠️ 装备栏 / Tech Stack
+## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,docker,postgres,redis,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tauri,rust,docker,postgres,sqlite,redis,linux,git&theme=dark" />
 </p>
 
-## 🚀 主力作品 / Featured Quests
+## What I'm Shipping
 
-### 🤖 [Echarts-AI-Skill](https://github.com/davaded/Echarts-AI-Skill)
-> Skill-first ECharts toolkit for Codex，支持图表推荐与 HTML/SVG 导出。  
-`#AI-tooling` `#visualization` `#TypeScript`
+### [Anchor](https://github.com/davaded/Anchor)
+Headless control runtime for coding agents.  
+Deterministic execution loop, replayable state, SQLite event log, and local artifacts for inspection.
 
-### 💸 [SubTrack](https://github.com/davaded/SubTrack)
-> 订阅管理系统：成本追踪、统计分析、多渠道续费提醒。  
-`#SaaS` `#self-hosted` `#product`
+`#agent-runtime` `#automation` `#codex` `#claude`
 
-### 🧭 [SnapDeploy](https://github.com/davaded/SnapDeploy)
-> 类 Vercel 体验的自托管静态站点部署平台。  
-`#deployment` `#dashboard` `#DevOps`
+### [codex-manager](https://github.com/davaded/codex-manager)
+Desktop manager for switching multiple OpenAI/Codex accounts without breaking the current Codex session flow.  
+Includes quota-aware switching, tray panel, OAuth import, and Tauri desktop packaging.
 
-## 🎮 支线任务 / Side Projects
-- [x-libris](https://github.com/davaded/x-libris) — Self-hosted X(Twitter) 内容管理
-- [prompt-manager](https://github.com/davaded/prompt-manager) — 桌面 Prompt 管理（Tauri）
-- [ChatMate](https://github.com/davaded/ChatMate) — 团队协作型 LLM 客户端
+`#desktop-app` `#tauri` `#openai` `#product-tool`
+
+### [Echarts-AI-Skill](https://github.com/davaded/Echarts-AI-Skill)
+Skill-first charting toolkit for AI agents.  
+Turns structured data requests into deterministic ECharts options and exportable HTML/SVG artifacts.
+
+`#ai-skill` `#visualization` `#typescript`
+
+### [api-enhanced](https://github.com/davaded/api-enhanced)
+Maintained fork of the Netease Cloud Music API service stack.  
+Used as part of my media and self-hosted experimentation workflow.
+
+`#api` `#music` `#self-hosted`
+
+## Current Direction
+- Agent infrastructure: execution control, memory, traceability, reproducible workflows
+- Desktop utilities: real tools around the Codex / OpenAI workflow instead of toy wrappers
+- AI skills: packaging focused capabilities so agents can do more than chat
+- Self-hosted experiments: media, automation, and private utility systems
+
+## Also Building
+- [prompt-manager](https://github.com/davaded/prompt-manager) - prompt management utility
+- [YesPlayMusic](https://github.com/davaded/YesPlayMusic) - music player related experiments
+- [OuonnkiTV](https://github.com/davaded/OuonnkiTV) - personal video site deployment exploration
+- [ECharts-Java](https://github.com/davaded/ECharts-Java) - Java bindings for ECharts structures
 
 ---
 
-## 📊 战斗数据 / Stats
+## GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davaded&show_icons=true&theme=merko&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davaded&layout=compact&theme=merko" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davaded&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davaded&layout=compact&theme=tokyonight" />
 </p>
 
-## 🔥 连击记录 / Streak
+## Streak
 <p>
-  <img src="https://streak-stats.demolab.com?user=davaded&theme=merko" />
+  <img src="https://streak-stats.demolab.com?user=davaded&theme=tokyonight" />
 </p>
 
-## ⏱️ WakaTime / Coding Time
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-## 🐍 贪吃蛇贡献图 / Snake
+## Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davaded/davaded/output/github-contribution-grid-snake.svg">
@@ -85,7 +91,6 @@ No activity tracked
 
 <div align="center">
 
-### 💫 Motto
-**「コードは魔法、プロダクト是咒文落地的痕迹。」**
+**Build useful tools. Keep the workflow inspectable.**
 
 </div>
